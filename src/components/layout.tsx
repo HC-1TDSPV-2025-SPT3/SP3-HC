@@ -2,7 +2,7 @@ import { Link, Outlet } from "react-router-dom";
 
 export function Layout() {
   return (
-    <div className="flex flex-col min-h-screen bg-[#eee8e0]">
+    <div className="flex flex-col min-h-screen bg-[#f7f1e9]">
       {/* NAVBAR */}
       <nav className="bg-[#0f1821] text-white border-b-[10px] border-[#66cccc] px-5 py-[15px] shadow-[1px_1px_5px_black]">
         <div className="flex justify-between items-center max-w-[1200px] mx-auto flex-wrap">
