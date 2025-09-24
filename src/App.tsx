@@ -14,18 +14,18 @@ import { Integrantes } from "./pages/integrantes"
 
 function App() {
   return (
-        <BrowserRouter>
+    <BrowserRouter>
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<Inicial />} />
-          <Route path='/servicos' element={<Servicos/>}/>
-          <Route path='/agendamentos' element={<Agendamentos/>}/>
-          <Route path='/area_do_paciente' element={<Area_do_paciente  />}/>
-          <Route path='/contato' element={<Contato/>}/>
-          <Route path='/entrar' element={<Entrar/>}/>
-          <Route path='/iniciar' element={<Iniciar/>}/>
-          <Route path='/faq' element={<Faq/>}/>
-          <Route path='/integrantes' element={<Integrantes/>}/>
+          <Route path='/servicos' element={<Servicos />} />
+          <Route path='/agendamentos' element={<Agendamentos />} />
+          <Route path='/area_do_paciente' element={<Area_do_paciente />} />
+          <Route path='/contato' element={<Contato />} />
+          <Route path='/entrar' element={<Entrar />} />
+          <Route path='/iniciar' element={<Iniciar />} />
+          <Route path='/faq' element={<Faq />} />
+          <Route path='/integrantes' element={<Integrantes />} />
         </Route>
       </Routes>
     </BrowserRouter>
