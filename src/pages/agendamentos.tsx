@@ -1,5 +1,5 @@
-export function Agendamentos(){
-    return(
-        <></>
-    )
+import { AgendamentoForm } from "../components/agendamentoForm";
+
+export default function Agendamentos() {
+  return <AgendamentoForm />;
 }
