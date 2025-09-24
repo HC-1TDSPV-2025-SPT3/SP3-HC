@@ -1,5 +1,9 @@
-export function Entrar(){
-    return(
-        <h1>Teste 6</h1>
-    )
+
+
+export function Entrar() {
+    return (
+        <>
+
+        </>
+    );
 }
