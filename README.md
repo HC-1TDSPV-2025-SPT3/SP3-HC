@@ -22,6 +22,12 @@ Este projeto tem como objetivo desenvolver uma aplicação para **auxiliar pacie
 
 ---
 
+## 📖 Links
+- Link GitHub:
+- Link Youtube:   
+
+---
+
 ## 📂 Estrutura de Pastas
 
 ```bash
@@ -45,10 +51,4 @@ Este projeto tem como objetivo desenvolver uma aplicação para **auxiliar pacie
 ├── 📜 tsconfig.json
 ├── 📜 tsconfig.node.json
 └── 📜 vite.config.ts
-
----
-
-## 📖 Links
-- Link GitHub:
-- Link Youtube:   
 
