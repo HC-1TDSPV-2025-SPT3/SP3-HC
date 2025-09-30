@@ -9,6 +9,7 @@ import { Iniciar } from "./pages/iniciar"
 import { Faq } from "./pages/faq"
 import { Integrantes } from "./pages/integrantes"
 import { AgendamentoForm } from "./components/agendamentoForm"
+import { NotFound } from "./pages/not-found"
 
 
 
@@ -26,6 +27,7 @@ function App() {
           <Route path='/iniciar' element={<Iniciar />} />
           <Route path='/faq' element={<Faq />} />
           <Route path='/integrantes' element={<Integrantes />} />
+          <Route path="*" element={<NotFound />} />
         </Route>
       </Routes>
     </BrowserRouter>

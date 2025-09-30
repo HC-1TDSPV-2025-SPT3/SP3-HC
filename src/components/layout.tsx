@@ -11,7 +11,7 @@ export function Layout() {
           <ul className="flex gap-[15px] list-none flex-wrap">
             <li className="px-[10px] hover:border-b-4 hover:border-[#66cccc] transition duration-100">
               <Link to="/" className="font-medium hover:text-[#66cccc]">
-                Página inicial
+                Página inicial                                                                             
               </Link>
             </li>
             <li className="px-[10px] hover:border-b-4 hover:border-[#66cccc] transition duration-100">
