@@ -16,15 +16,15 @@ Este projeto tem como objetivo desenvolver uma aplicação para **auxiliar pacie
 ---
 
 ## 👨‍💻 Integrantes do Grupo
-- Kevin Martins RM: 563454
+- Kevin Martins Campos RM: 563454
 - Raul Junior Bento dos Santos RM: 563458
 - Larissa Juvenal de Magalhães RM: 566457
 
 ---
 
 ## 📖 Links
-- Link GitHub:
-- Link Youtube:   
+- Link GitHub: https://github.com/HC-1TDSPV-2025-SPT3/SP3-HC.git
+- Link Youtube: https://youtu.be/YiD0gE2qmRs
 
 ---
 
