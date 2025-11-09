@@ -29,10 +29,10 @@ export function Layout() {
             </li>
             <li className="px-[10px] hover:border-b-4 hover:border-[#66cccc] transition duration-100">
               <Link
-                to="/area_do_paciente"
+                to="/consultas"
                 className="font-medium hover:text-[#66cccc]"
               >
-                Área do paciente
+                Consultas
               </Link>
             </li>
             <li className="px-[10px] hover:border-b-4 hover:border-[#66cccc] transition duration-100">

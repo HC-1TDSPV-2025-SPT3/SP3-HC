@@ -2,7 +2,7 @@ import { BrowserRouter, Route, Routes } from "react-router-dom"
 import { Layout } from "./components/layout"
 import { Inicial } from "./pages/inicial"
 import { Servicos } from "./pages/serviços"
-import { Area_do_paciente } from "./pages/area_do_paciente"
+import { Consultas } from "./pages/consultas"
 import { Contato } from "./pages/contato"
 import { Entrar } from "./pages/entrar"
 import { Iniciar } from "./pages/iniciar"
@@ -21,7 +21,7 @@ function App() {
           <Route index element={<Inicial />} />
           <Route path='/servicos' element={<Servicos />} />
           <Route path='/agendamentos' element={<AgendamentoForm/>} />
-          <Route path='/area_do_paciente' element={<Area_do_paciente />} />
+          <Route path='/consultas' element={<Consultas />} />
           <Route path='/contato' element={<Contato />} />
           <Route path='/entrar' element={<Entrar />} />
           <Route path='/iniciar' element={<Iniciar />} />

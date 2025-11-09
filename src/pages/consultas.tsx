@@ -1,6 +1,6 @@
 import calendario from "../assets/05-calendario.png";
 
-export function Area_do_paciente() {
+export function Consultas() {
     return (
         <div className="font-sans bg-white text-[#111] min-h-screen m-0 p-0">
             
